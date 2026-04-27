@@ -1,0 +1,14 @@
+2026-04-27 18:43:58,564 - No agent or invalid configuration file found
+2026-04-27 18:43:58,570 - Compliance engine started.
+2026-04-27 18:43:58,576 - Running Fairlearn mitigation...
+2026-04-27 18:43:58,720 - Audit Complete. Disparity: 0.05, Accuracy: 0.92
+2026-04-27 18:43:59,720 - 202 POST https://api.datadoghq.com/api/v1/series (999.7749ms)
+2026-04-27 18:43:59,956 - 202 POST https://api.datadoghq.com/api/v1/series (235.229ms)
+2026-04-27 18:43:59,956 - Compliance metrics sent to Datadog.
+2026-04-27 18:47:11,865 - No agent or invalid configuration file found
+2026-04-27 18:47:11,879 - Compliance engine started.
+2026-04-27 18:47:11,885 - Running Fairlearn mitigation...
+2026-04-27 18:47:12,024 - Audit Complete. Disparity: 0.05, Accuracy: 0.92
+2026-04-27 18:47:13,054 - 202 POST https://api.datadoghq.com/api/v1/series (1029.6099ms)
+2026-04-27 18:47:13,282 - 202 POST https://api.datadoghq.com/api/v1/series (227.3862ms)
+2026-04-27 18:47:13,282 - Compliance metrics sent to Datadog.
